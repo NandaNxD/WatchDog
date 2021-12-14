@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367011482249",
+    "project_id": "watchdog-4475a",
+    "storage_bucket": "watchdog-4475a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367011482249:android:6c74d39059f01bed661458",
+        "android_client_info": {
+          "package_name": "com.homesecurity.watchdog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367011482249-3mls8ti8mptk651625tb8u2gb28h8n78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIn9jl3wr4Ou1JAJa_A4dzn2jkOr10wVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367011482249-3mls8ti8mptk651625tb8u2gb28h8n78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
