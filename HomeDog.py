@@ -6,9 +6,8 @@ from firebase_admin import credentials
 #from picamera import PiCamera
 
 #GLOBAL VARIABLES
-PATH_TO_SERVICEACCOUNTKEY="WatchDog\watchdog-4475a-firebase-adminsdk-rue2z-bd330db374.json"
+PATH_TO_SERVICEACCOUNTKEY="watchdog-4475a-firebase-adminsdk-rue2z-bd330db374.json"
 PIRSENSOR_PIN=4
-
 
 # def detectMotion():
 #     pir = MotionSensor(PIRSENSOR_PIN)
